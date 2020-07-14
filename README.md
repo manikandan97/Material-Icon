@@ -11,9 +11,9 @@ Material System Icons is a set of mobile platform icons.
 The library is published via JCenter, please ensure that the `jcenter()` repository has been added to the root `build.gradle` file:
 ```groovy
 repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	...
+	maven { url 'https://jitpack.io' }
+}
 ```
 Include the following dependency in your project's `build.gradle`
 ```groovy

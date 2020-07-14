@@ -1,0 +1,3 @@
+include ':iconlibrary'
+include ':app'
+rootProject.name = "Material Icon"
